@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { MapPin, Navigation } from "lucide-react";
 import venue from "@/assets/venue.jpg";
-import coupleSecondary from "@/assets/image-4.jpeg";
+import coupleSecondary from "@/assets/image3.jpeg";
 import { SectionHeading } from "./SectionHeading";
 
 const VENUE_QUERY = encodeURIComponent(

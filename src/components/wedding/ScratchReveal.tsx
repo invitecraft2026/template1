@@ -2,7 +2,7 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { Ornament } from "./Ornament";
-import coupleSecondary from "@/assets/image-new2.jpeg";
+import coupleSecondary from "@/assets/image4.jpg";
 
 const HEART_PATH =
   "M130,225 C130,225 20,145 20,80 C20,45 45,18 80,18 C102,18 120,32 130,50 C140,32 158,18 180,18 C215,18 240,45 240,80 C240,145 130,225 130,225 Z";

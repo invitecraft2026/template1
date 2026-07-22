@@ -1,7 +1,7 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { useEffect, useState } from "react";
 import { SectionHeading } from "./SectionHeading";
-import coupleCountdown from "@/assets/couple-countdown.jpg";
+import coupleCountdown from "@/assets/image1.png";
 
 const TARGET = new Date("2026-09-07T09:00:00+05:30").getTime();
 

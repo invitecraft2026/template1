@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Calendar, Clock, MapPin } from "lucide-react";
 import { SectionHeading } from "./SectionHeading";
-import coupleEvents from "@/assets/couple-events.jpg";
+import coupleEvents from "@/assets/image2.png";
 
 const events = [
   {

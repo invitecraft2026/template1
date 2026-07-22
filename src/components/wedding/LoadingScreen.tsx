@@ -88,7 +88,7 @@ export function LoadingScreen({ onDone }: { onDone: () => void }) {
               className="mt-8 text-center"
             >
               <div className="font-display text-[10px] tracking-[0.5em] text-rose-gold uppercase">Shubh Vivaham</div>
-              <div className="mt-3 font-serif text-4xl italic text-deep-brown">Kowshik &amp; Niroopa</div>
+              <div className="mt-3 font-serif text-4xl italic text-deep-brown">Virat Kohli &amp; Anushka Sharma</div>
             </motion.div>
 
             <div className="mt-10 h-[1px] w-56 overflow-hidden bg-rose-gold/20">

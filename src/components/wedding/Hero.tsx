@@ -79,17 +79,17 @@ export function Hero() {
           transition={{ duration: 1.8, delay: 0.6, ease: [0.19, 1, 0.22, 1] }}
           className="mt-6 font-script text-[clamp(3rem,9vw,6.5rem)] leading-[0.9] text-deep-brown"
         >
-          Kowshik Raj
+         Virat Kohli
         </motion.h1>
 
-        <motion.p
+        {/* <motion.p
           initial={{ opacity: 0, y: 8 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 1.1, duration: 0.9 }}
           className="mt-1 font-serif text-lg italic text-deep-brown/90 drop-shadow-md md:text-xl"
         >
           S/O Mr. Durai Murugan &amp; Mrs. Kayalvizhi
-        </motion.p>
+        </motion.p> */}
 
         <motion.div
           initial={{ opacity: 0, scale: 0.5, rotate: -30 }}
@@ -110,17 +110,17 @@ export function Hero() {
           transition={{ duration: 1.8, delay: 0.9, ease: [0.19, 1, 0.22, 1] }}
           className="font-script text-[clamp(3rem,9vw,6.5rem)] leading-[0.9] text-deep-brown"
         >
-          Niroopa
+          Anushka Sharma
         </motion.h1>
 
-        <motion.p
+        {/* <motion.p
           initial={{ opacity: 0, y: 8 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 1.5, duration: 0.9 }}
           className="mt-1 font-serif text-lg italic text-deep-brown/90 drop-shadow-md md:text-xl"
         >
           D/O Mr. Vijayakumar &amp; Mrs. Sujatha
-        </motion.p>
+        </motion.p> */}
 
         <Ornament className="mx-auto mt-8 h-8 w-64 opacity-80" />
 
