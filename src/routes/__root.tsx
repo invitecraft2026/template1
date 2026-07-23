@@ -63,7 +63,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
 
-      { title: "Kowshik & Niroopa · A Wedding Invitation" },
+      { title: "Virat Kohli & Anushka Sharma · A Wedding Invitation" },
       {
         name: "description",
         content:
@@ -73,7 +73,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       // Open Graph
       {
         property: "og:title",
-        content: "Kowshik & Niroopa · A Wedding Invitation",
+        content: "Virat Kohli & Anushka Sharma · A Wedding Invitation",
       },
       {
         property: "og:description",
@@ -82,7 +82,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       },
       {
         property: "og:image",
-        content: "https://kowshik-niroopa-invitation.invitecraft2026.workers.dev/image-6.jpeg",
+        content: "https://template1.invitecraft2026.workers.dev/image1.png",
       },
       {
         property: "og:image:width",
@@ -94,7 +94,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       },
       {
         property: "og:url",
-        content: "https://kowshik-niroopa-invitation.invitecraft2026.workers.dev/image-6.jpeg",
+        content: "https://template1.invitecraft2026.workers.dev/image1.png",
       },
       {
         property: "og:type",
@@ -108,7 +108,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       },
       {
         name: "twitter:title",
-        content: "Kowshik & Niroopa · A Wedding Invitation",
+        content: "Virat Kohli & Anushka Sharma · A Wedding Invitation",
       },
       {
         name: "twitter:description",
@@ -116,7 +116,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       },
       {
         name: "twitter:image",
-        content: "https://kowshik-niroopa-invitation.invitecraft2026.workers.dev/image-6.jpeg",
+        content: "https://template1.invitecraft2026.workers.dev/image1.png",
       },
     ],
 
